@@ -19,6 +19,7 @@ public class DynamicDropdown {
 		Thread.sleep(2000);
 		driver.findElement(By.xpath("(//a[@value='MAA'])[2]")).click();
 		System.out.println("Testing GIt");
+		System.out.println("Testing GIt");
 	}
 
 }
